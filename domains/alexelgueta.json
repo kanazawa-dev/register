@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "kanazawa-dev"
+        "username": "kanazawa-dev",
+        "email": "alexelgueta.developer@gmail.com"
     },
     "records": {
         "CNAME": "alexelgueta-herbario.pages.dev"
